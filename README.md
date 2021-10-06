@@ -1,3 +1,2 @@
 - 👋 Hi, I’m @AlexPosylkin
 - 👀 I’m interested in 3D and Computer Network
-- 🌱 I’m currently learning C++ language and math
