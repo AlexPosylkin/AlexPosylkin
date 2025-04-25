@@ -1,2 +1,3 @@
-- 👋 Hi, I’m @AlexPosylkin
-- 👀 I’m interested in 3D and Computer Network
+- 👋 Hi, I’m @AlexPos. Welcome!
+- 👀 I am a professional computer network and control systems developer. I am a non-professional computer graphics and game developer.
+- 🫠 This is my private, public github account, here are only my private amateur projects.
